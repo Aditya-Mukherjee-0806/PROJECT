@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToeSinglePLayer
+comment1.params=
+comment1.target=void\ arr()
+comment2.params=
+comment2.target=void\ fill()
+comment3.params=c
+comment3.target=int\ input(char)
+comment4.params=c\ f\ x\ n1
+comment4.target=void\ input(char,\ int,\ int,\ int)
+comment5.params=
+comment5.target=char\ check()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=m
+comment1.target=int\ score(int)
+comment1.text=\r\n\ \ \ \ \ \ \ 3\ points\ -\ you\ win\r\n\ \ \ \ \ \ \ 2\ points\ -\ you\ draw\ when\ opposition\ gave\ move\r\n\ \ \ \ \ \ \ 1\ point\ -\ you\ draw\ whrn\ you\ gave\ the\ first\ move\r\n0\ point\ -\ you\ loose
+numComments=2

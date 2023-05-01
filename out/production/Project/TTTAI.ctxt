@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=TTTAI
+comment1.params=
+comment1.target=void\ reset1()
+comment10.params=play\ m\ x\ n1
+comment10.target=int\ first(char[],\ int,\ int,\ int)
+comment11.params=play\ x
+comment11.target=int\ fwin1(char[],\ int)
+comment12.params=play\ n\ n1
+comment12.target=int\ second(char[],\ int,\ int)
+comment2.params=k
+comment2.target=int\ tools(int)
+comment3.params=k
+comment3.target=int\ tools1(int)
+comment4.params=play\ m
+comment4.target=int\ tools3(char[],\ int)
+comment5.params=play\ n
+comment5.target=int\ move1(char[],\ int)
+comment6.params=play\ n
+comment6.target=int\ win(char[],\ int)
+comment7.params=play\ n
+comment7.target=int\ move2(char[],\ int)
+comment8.params=play
+comment8.target=int\ Random(char[])
+comment9.params=play\ n\ x\ n1
+comment9.target=int\ input(char[],\ int,\ int,\ int)
+numComments=13
